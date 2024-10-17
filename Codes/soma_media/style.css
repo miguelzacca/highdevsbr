@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    background-color: aliceblue;
+}
+button, p, h1{
+    margin: 10px;
+}
